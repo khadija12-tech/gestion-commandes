@@ -1,0 +1,15 @@
+# Maven / build output
+target/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+Servers/
+
+# OS / editor
+.DS_Store
+*.log
+*.swp
